@@ -61,7 +61,7 @@ The ground motions are embedded directly inside `definitions.tcl` as inline `tim
 
 ## Units
 
-SI units throughout: metres (m), seconds (s), kilograms (kg), Newtons (N), Pascals (Pa). All quantities are at model scale; see the scaling relationships in Table 1 of the paper before extrapolating to prototype conditions.
+SI units throughout: metres (m), seconds (s), kilograms (kg), Newtons (N), Pascals (Pa). All quantities are at model scale.
 
 ## Citation
 
@@ -70,7 +70,3 @@ If you use these models, please cite the paper (see `CITATION.cff`) and this arc
 ## License
 
 Released under the MIT License (see `LICENSE`).
-
-## Acknowledgements
-
-Funding support was provided to Shahin Huseynli through the State Programme 2019–2023 of the Ministry of Science and Education of the Republic of Azerbaijan. The authors thank the technical team of the Earthquake and Large Structures (EQUALS) Laboratory at the University of Bristol.
