@@ -63,6 +63,10 @@ The ground motions are embedded directly inside `definitions.tcl` as inline `tim
 
 SI units throughout: metres (m), seconds (s), kilograms (kg), Newtons (N), Pascals (Pa). All quantities are at model scale.
 
+## Citation
+
+If you use these models, please cite the paper (see `CITATION.cff`) and this archive.
+
 ## License
 
 Released under the MIT License (see `LICENSE`).
