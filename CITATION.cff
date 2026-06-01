@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use these models, please cite both the paper and this software archive."
+title: "OpenSees models for dynamic SSI of wind turbine monopiles"
+authors:
+  - family-names: Huseynli
+    given-names: Shahin
+    affiliation: "University of Bristol"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Lee
+    given-names: Ella E.
+    affiliation: "University of Bristol"
+  - family-names: Karamitros
+    given-names: Dimitris
+    affiliation: "University of Bristol"
+  - family-names: De Risi
+    given-names: Raffaele
+    affiliation: "University of Bristol"
+  - family-names: Dietz
+    given-names: Matthew S.
+    affiliation: "University of Bristol"
+  - family-names: De Luca
+    given-names: Flavia
+    affiliation: "University of Bristol"
+license: MIT
+version: "1.0.0"
+date-released: "2026-06-01"
+url: "https://github.com/USERNAME/REPONAME"
+preferred-citation:
+  type: article
+  title: "Experimental validation and benchmarking of dynamic soil-structure interaction models for wind turbine monopiles"
+  authors:
+    - family-names: Huseynli
+      given-names: Shahin
+    - family-names: Lee
+      given-names: Ella E.
+    - family-names: Karamitros
+      given-names: Dimitris
+    - family-names: De Risi
+      given-names: Raffaele
+    - family-names: Dietz
+      given-names: Matthew S.
+    - family-names: De Luca
+      given-names: Flavia
+  journal: "Earthquake Engineering & Structural Dynamics"
+  year: 2026
