@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these models, please cite both the paper and this software archive."
+title: "OpenSees models for dynamic soil-structure interaction of wind turbine monopiles"
+authors:
+  - family-names: Huseynli
+    given-names: Shahin
+    affiliation: "University of Bristol"
+  - family-names: Lee
+    given-names: "Ella E."
+    affiliation: "University of Bristol"
+  - family-names: Karamitros
+    given-names: Dimitris
+    affiliation: "University of Bristol"
+  - family-names: "De Risi"
+    given-names: Raffaele
+    affiliation: "University of Bristol"
+  - family-names: Dietz
+    given-names: "Matthew S."
+    affiliation: "University of Bristol"
+  - family-names: "De Luca"
+    given-names: Flavia
+    affiliation: "University of Bristol"
+license: MIT
+version: "1.0.1"
+date-released: "2026-06-01"
