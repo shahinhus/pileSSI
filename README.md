@@ -63,10 +63,6 @@ The ground motions are embedded directly inside `definitions.tcl` as inline `tim
 
 SI units throughout: metres (m), seconds (s), kilograms (kg), Newtons (N), Pascals (Pa). All quantities are at model scale; see the scaling relationships in Table 1 of the paper before extrapolating to prototype conditions.
 
-## Related analytical models
-
-The closed form BWF (Crispin and Mylonakis, 2022) and kinematic BDWF (Rovithis et al., 2013) solutions in the paper are implemented separately in Python and are not included here.
-
 ## Citation
 
 If you use these models, please cite the paper (see `CITATION.cff`) and this archive.
