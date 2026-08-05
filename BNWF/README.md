@@ -1,6 +1,6 @@
 # BNWF
 
-Beam on nonlinear Winkler foundation model: nonlinear p-y springs (PySimple1) and Lysmer Kuhlemeyer viscous dashpots distributed along the pile.
+Beam on nonlinear Winkler foundation model: nonlinear p-y springs and viscous dashpots (PySimple1) distributed along the pile.
 
 - Model space: `model basic -ndm 2 -ndf 3`
 - Soil material: PressureDependMultiYield (PDMY)
